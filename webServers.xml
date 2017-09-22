@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2638f507-deaa-48b8-be86-14c5f0fc958e" name="Beavers-brothers" url="http://p321509@p321509.cpanel.ihc.ru">
+        <fileTransfer host="p321509@p321509.cpanel.ihc.ru" port="22" rootFolder="/home/p321509/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
